@@ -1,19 +1,19 @@
 jsfiddlelogger
 =============
 
-Redirect console.log to write to document.body.
+Show console.log output in the JSFIDDLE result pane.
 ![](./screen_shot.png)
 
 Usage
 =============
 
-This is the entire code, so add it at the top of some javascript
+This is the entire code, so you can just add it to the top of your javascript
 ```
 console.log = function(msg) { 
     document.body.innerHTML += msg + '<br>'; 
 }
 ```
 
-In JSFIDDLE, add http://seanewest.github.io/cabin/cabin.js to External Resources (as in the screenshot).
+Alternatively, you can add http://seanewest.github.io/cabin/cabin.js to External Resources (see screenshot).
 
 
