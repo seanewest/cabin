@@ -1,4 +1,4 @@
-# cabin
+# jsfiddlelogger
 
 Redirect console.log to write to document.body. 
 
