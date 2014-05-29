@@ -14,6 +14,6 @@ console.log = function(msg) {
 }
 ```
 
-Alternatively, you can add http://seanewest.github.io/cabin/cabin.js to External Resources (see screenshot).
+Alternatively, you can add http://seanewest.github.io/jsfiddlelogger/logger.js to External Resources (see screenshot).
 
 
